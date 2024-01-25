@@ -8,6 +8,7 @@ public class CartTest {
 	public void myCartTest()
 	{
 		System.out.println(" my cart page ready ");
+		System.out.println("new cart conflict");
 	}
 
 }
