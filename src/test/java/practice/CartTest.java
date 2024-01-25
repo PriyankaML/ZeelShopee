@@ -5,9 +5,9 @@ import org.testng.annotations.Test;
 public class CartTest {
 	
 	@Test
-	public void myCartTest()
+	public void myWishlistTest()
 	{
-		System.out.println(" my cart page ready ");
+		System.out.println(" my wish page ready ");
 	}
 
 }
