@@ -12,7 +12,11 @@ public class jenkinsPipelineTest {
 		String ENV = System.getProperty("env");
 		
 		System.out.println(BROWSER);
+		
+		
 		System.out.println(ENV);
+		
+		System.out.println("choosed");
 	}
 	
 	
